@@ -1,5 +1,4 @@
 # python fundamentals
- #Day1 (30/6)
 
 1. variables- The unknown data values present in data sets 
 2. References- address for locating the data in memory 

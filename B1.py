@@ -16,7 +16,9 @@
 ---
 9. function- a block of instructons stored in one place
         def fun (this is how the function is defined)
+---
 10. parameter- unknow data value
+---
 11. arguments- known data value
 12. print()- shows the result to user
 13. return()- saves the process in programe to recall

@@ -20,11 +20,15 @@
 10. parameter- unknow data value
 ---
 11. arguments- known data value
+---
 12. print()- shows the result to user
+---
 13. return()- saves the process in programe to recall
         none - when return is not define the result is not shown
+---
 14. f-strings: formated string (used for adding the variables in string)
     a. adding variables 
     d. claculation
     c.function calling
     d.dictionary value
+-------x-----x----x-------
